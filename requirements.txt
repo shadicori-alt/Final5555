@@ -1,0 +1,5 @@
+flask
+requests
+openai
+sqlite3-binary
+python-dotenv
